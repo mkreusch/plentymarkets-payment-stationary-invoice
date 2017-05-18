@@ -1,0 +1,23 @@
+{
+    "version"           : "1.0.0",
+    "name"              : "StationaryInvoice",
+    "marketplaceName"   : {"de":"Rechnung (Fachmarkt)","en":"Invoice (Stationary)"},
+    "license"           : "MIT",
+    "pluginIcon"        : "icon_plugin_xs.png",
+    "price"             : 0.00,
+    "description"       : "Sationary Invoice plugin for plentymarkets online stores",
+    "shortDescription"  : {"de": "Rechnung (Fachmarkt)","en": "Invoice (Stationary)"},
+    "categories"        : ["3519"],
+    "author"            : "Marcus Kreusch",
+    "authorIcon"        : "icon_author_xs.png",
+    "email"             : "info@kreusch-creative.de",
+    "phone"             : "",
+    "keywords"          : [],
+    "type"              : "payment",
+    "namespace"         : "StationaryInvoice",
+    "serviceProvider"   : "StationaryInvoice\\Providers\\StationaryInvoiceServiceProvider",
+    "javaScriptFiles"   : [],
+    "containers"        : [],
+    "dataProviders"     : [],
+    "dependencies"      : []
+}

@@ -1,5 +1,5 @@
 {
-    "version"           : "1.0.0",
+    "version"           : "1.0.1",
     "name"              : "StationaryInvoice",
     "marketplaceName"   : {"de":"Rechnung (Fachmarkt)","en":"Invoice (Stationary)"},
     "license"           : "MIT",
